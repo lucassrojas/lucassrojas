@@ -12,11 +12,11 @@ Actualmente desarrollo proyectos utilizando **SQL, Excel y Power BI** para explo
 
 ## Reporte de Gestión de Ventas
 Proyecto realizado en Excel 
-Link: https://github.com/lucassrojas/reporte-gestion-ventas
+[Reporte de Gestión de Ventas](https://github.com/lucassrojas/reporte-gestion-ventas)
 
 ## Análisis de Ventas Online
-Proyceto desarrollado en SQL y Power BI para análisis y visualización de datos de ventas de un E-commerce
-Link: https://github.com/lucassrojas/analisis-ventas-online
+Proyecto desarrollado en SQL y Power BI para análisis y visualización de datos de ventas de un E-commerce
+[Análisis de Ventas Online](https://github.com/lucassrojas/analisis-ventas-online)
 
 
 
