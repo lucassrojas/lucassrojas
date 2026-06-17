@@ -2,7 +2,7 @@
 
 Estudiante de la **Licenciatura en Ciencias de Datos** en la Universidad de Buenos Aires. Actualmente finalizando el título de Bachiller Universitario en Ciencias de Datos.
 
-Me enfoco en el desarrollo de proyectos de **Análisis de Datos**, utilizando herramientas como **SQL, Excel y Power BI** para explorar datos y generar reportes útiles para la toma de decisiones.
+Me enfoco en el trabajo con información y la elaboración de reportes utilizando herramientas como Excel, SQL y Power BI, contribuyendo al análisis, organización y control de datos operativos para la toma de decisiones.
 
 ## Herramientas
 - **SQL Server**
